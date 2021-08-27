@@ -1,0 +1,59 @@
+/* -- HEADER -- */
+
+header {
+    background-color: #fff;
+    float: left;
+    width: 100%;
+}
+
+header .logo-peak {
+    margin-top: 15px;
+}
+
+header nav {
+    display: inline-block;
+    float: right;
+}
+
+header .share {
+    position: relative;
+    top: -2px;
+}
+
+
+
+.share span {
+    color: #4152b2;
+    transition: color .35s cubic-bezier(0.215, 0.610, 0.355, 1.000);
+}
+
+.share span:hover {
+    color: #9575cb;
+}
+
+.share,
+.share li {
+    display: inline-block;
+}
+
+#main-menu,
+#main-menu li {
+    display: inline-block;
+}
+
+#main-menu a {
+    color: #4152b2;
+    text-transform: uppercase;
+    font-family: "Open Sans Condensed", sans-serif;
+    font-weight: bold;
+    padding: 39px 28px;
+    display: block;
+    border-bottom: 4px solid transparent;
+    transition: color .35s cubic-bezier(0.215, 0.610, 0.355, 1.000),
+                border-bottom-color .35s cubic-bezier(0.215, 0.610, 0.355, 1.000);
+}
+
+#main-menu a:hover {
+    color: #9575cb;
+    border-bottom-color: #9575cb;
+}

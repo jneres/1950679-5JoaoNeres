@@ -1,0 +1,64 @@
+/* -- OBJECTS -- */
+.container {
+    max-width: 930px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+    /*Remove um texto, mas ele não deixa de existir*/
+.rmvtxt {
+    display: inline-block;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+
+.logo-peak {
+    display: inline-block;
+    text-indent: -9999px;
+    overflow: hidden;
+    background: url("../images/logo-peak.png") 0 0 / cover no-repeat;
+    width: 156px;
+    height: 72px;
+}
+
+.hide {
+    display: none;
+}
+
+.btn {
+    display: block;
+    max-width: 250px;
+    padding: 10px 15px;
+    text-align: center;
+    font-family: "Open Sans Condensed", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: 2px solid #9575cb;
+    transition: background-color 300ms cubic-bezier(0.215, 0.610, 0.355, 1.000),
+                color 300ms cubic-bezier(0.215, 0.610, 0.355, 1.000);
+}
+
+.btn-highlight {
+    margin: 32px auto 0;
+    color: #fffefe;
+}
+
+.btn-highlight:hover {
+    background: #9574cb;
+}
+
+.btn-primary {
+    color: #9575cb;
+    margin-left: 0px;
+    margin-top: 30px;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #9575cb;
+}
+
+.divide-conteudo {
+    width: 50%;
+}
+

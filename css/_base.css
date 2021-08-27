@@ -1,0 +1,30 @@
+/* --BASE-- */
+body {
+    font: 15px "Open Sans", sans-serif;
+    background-color: #000;
+    color: #191919;
+}
+
+a {
+    text-decoration: none;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    vertical-align: bottom;
+}
+
+section p {
+    letter-spacing: .01em;
+    line-height: 1.6em
+}
+
+h2 {
+	font-family: "Open Sans";
+	font-weight: 700;
+	font-size: 	36px;
+}
+

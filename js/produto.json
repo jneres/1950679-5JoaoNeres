@@ -1,0 +1,77 @@
+[
+	{
+		
+		"imagem":"images/brigadeiro.jpg",
+		"Produto":"Brigadeiro",
+		"Preço":"17,50",
+		"Quantidade":"06un",
+		"peso":"30g"
+
+	},
+
+	{
+		"imagem":"images/romeuejulieta.jpeg",
+		"Produto":"Romeu e Julieta",
+		"Preço":"13,50",
+		"Quantidade":"06un",
+		"peso":"30g"
+	},
+
+	{
+		"imagem":"images/pudim.jpeg",
+		"Produto":"Pudim",
+		"Preço":"20,50",
+		"Quantidade":"06un",
+		"peso":"50g"
+	},
+
+	{	
+		"imagem":"images/pedemolek.jpg",
+		"Produto":"Pé de moleque",
+		"Preço":"12,50",
+		"Quantidade":"10un",
+		"peso":"30g"
+	},
+
+
+	{	
+		"imagem":"images/quindim.jpeg",
+		"Produto":"Quindim",
+		"Preço":"3,50",
+		"Quantidade":"06un",
+		"peso":"30g"
+	},
+
+	{
+		"imagem":"images/bolodepote.jpg",
+		"Produto":"Bolo de pote",
+		"Preço":"5,50",
+		"Quantidade":"01un",
+		"peso":"30g"
+	},
+
+	{
+		"imagem":"images/pamonha.jpg",
+		"Produto":"Pamonha",
+		"Preço":"3,50",
+		"Quantidade":"06un",
+		"peso":"30g"
+	},
+
+
+	{
+		"imagem":"images/abobora.jpeg",
+		"Produto":"Doce de abobora",
+		"Preço":"3,50",
+		"Quantidade":"03un",
+		"peso":"30g"
+	},
+
+	{
+		"imagem":"images/cural.jpeg",
+		"Produto":"Cural",
+		"Preço":"3,50",
+		"Quantidade":"06un",
+		"peso":"30g"
+	}
+]

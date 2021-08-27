@@ -1,0 +1,62 @@
+/* -- FOOTER -- */
+
+footer {
+    background-color: #4152b2;
+    color: #fff;
+    padding: 30px 0 25px;
+    float: left;
+    width: 100%;
+}
+
+footer a {
+    color: #fff;
+    transition: color 300ms cubic-bezier(0.215, 0.610, 0.355, 1.000);
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer .pull-right p {
+    opacity: .3;
+    font-size: 11px;
+    text-align: right;
+}
+
+.footer-menu nav {
+    margin-bottom: 7px;
+}
+
+.footer-menu nav,
+.footer-menu li,
+.share-footer li,
+.share-footer p,
+.share-footer nav,
+.share-footer ul {
+    display: inline-block;
+}
+
+.footer-menu a {
+    padding-left: 20px;
+}
+
+.footer-menu li:first-child a {
+    padding-left: 0;
+}
+
+.share-footer p {
+    margin-right: 7px;
+}
+
+.share-footer a:hover {
+    color: #9575cb
+}
+
+.share-footer a:hover .fa-inverse {
+    color: #fff;
+}
+
+.share-footer .fa-inverse {
+    color: #4152b2;
+    transition: color 300ms cubic-bezier(0.215, 0.610, 0.355, 1.000);
+}

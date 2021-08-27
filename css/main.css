@@ -1,0 +1,53 @@
+@import url("reset.css");
+@import url("vendor/font-awesome.min.css");
+@import url("_base.css");
+@import url("_objects.css");
+@import url("header.css");
+@import url("footer.css");
+
+main {
+    clear: both;
+}
+
+.section-highlight {
+    background-color: #4152b2;
+    color: #fff;
+    text-align: center;
+}
+
+.container-highlight {
+    max-width: 900px;
+    padding: 60px 15px 52px;
+    margin: 0 auto;
+}
+
+.section-title {
+    font-family: "Open Sans Condensed";
+    text-transform: uppercase;
+    margin-bottom: -3px;
+}
+
+.section-subtitle {
+    font-weight: 300;
+    font-size: 40px;
+    font-family: "Open Sans Condensed";
+    text-transform: uppercase;
+    letter-spacing: .01em;
+    margin-bottom: 13px;
+}
+
+.section-default {
+    background: #fff;
+    float: left;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.section-default .box-txt {
+    padding-right: 15px;
+}
+
+.section-default img {
+    padding-left: 15px;
+}
